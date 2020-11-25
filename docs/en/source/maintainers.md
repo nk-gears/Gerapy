@@ -1,4 +1,4 @@
-## Matintainers
+## Maintainers
 
 * Germey
   * Blog：[https://cuiqingcai.com/](https://cuiqingcai.com/)
